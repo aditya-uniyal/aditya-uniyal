@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://tenor.com/en-IN/view/rz-ds-project-gif-24176703
+
+
 
 <p align="center">
-  <img src="https://tenor.com/en-IN/view/rz-ds-project-gif-24176703"/>
+  <img src="https://tenor.com/view/rz-ds-project-gif-24176703"/>
 </p>
 
 <p align="center">
