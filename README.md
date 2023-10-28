@@ -28,3 +28,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/aditya-uniyal-bbb85015a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%40AdityaUniyal-blue?style=for-the-badge" /></a>
   <a href="https://adityauniyal.me" target="_blank"><img src="https://img.shields.io/website?style=for-the-badge&up_message=Portfolio&url=https%3A%2F%2Fadityauniyal.me" /></a>
 </p>
+
+<p align="center">
+  🔭 I’m currently working on MERN stack and Java Spring Boot.
+  👯 I’m looking to collaborate on open source projects using JavaScript and Java.
+</p>
+
