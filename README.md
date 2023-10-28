@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://media.tenor.com/f4eKzaPOZUYAAAAC/rz-ds-project.gif"/>
+  <img src="https://media.tenor.com/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif"/>
 </p>
 
 <p align="center">
