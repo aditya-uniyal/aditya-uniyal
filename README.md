@@ -33,6 +33,11 @@ Here are some ideas to get you started:
   </div>
 </p>
 
+
+<div align="center">
+  ### 📫 How to reach me:
+</div>
+
 <p align="center">
   <i>
     <a href="https://adityauniyal.me" target="_blank"><img src="https://img.shields.io/website?style=for-the-badge&up_message=Portfolio&url=https%3A%2F%2Fadityauniyal.me" /></a>
