@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  🔭 I’m currently working on MERN stack and Java Spring Boot.
-  👯 I’m looking to collaborate on open source projects using JavaScript and Java.
+  <div>
+    🔭 I’m currently working on MERN stack and Java Spring Boot.
+  </div>
+  <div>
+    👯 I’m looking to collaborate on open source projects using JavaScript and Java.
+  </div>
 </p>
 
