@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  ### 📫 How to reach me:
+  📫 How to reach me:
 </div>
 
 <p align="center">
