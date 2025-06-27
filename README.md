@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <i>
-    <a href="https://www.adityauniyal.dev" target="_blank"><img src="https://img.shields.io/website?style=for-the-badge&up_message=Portfolio&url=https%3A%2F%2Fadityauniyal.me" /></a>
+    <a href="https://www.adityauniyal.dev" target="_blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.adityauniyal.dev" /></a>
     <a href="https://www.linkedin.com/in/aditya-uniyal-bbb85015a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%40AdityaUniyal-blue?style=for-the-badge" /></a>
     <a href="mailto:uniyal.aditya61@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   </i>
