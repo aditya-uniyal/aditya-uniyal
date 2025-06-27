@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <div align="center">
+<!--   <div align="center">
     🔭 I’m currently working on MERN stack and Java Spring Boot.
-  </div>
+  </div> -->
   <div align="center">
-    👯 I’m looking to collaborate on open source projects using JavaScript and Java.
+    👯 I’m looking to collaborate on open source projects using JavaScript, Java and .Net.
   </div>
 </p>
 
